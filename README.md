@@ -1,2 +1,2 @@
 # portfolio
-Portfolio to demonstrate my software capabilities
+Portfolio to demonstrate my software and Git capabilities
