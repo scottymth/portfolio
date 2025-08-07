@@ -24,8 +24,4 @@ class Solution {
         }
         return segments;
     }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().partitionString(args[0]));
-    }
 }
