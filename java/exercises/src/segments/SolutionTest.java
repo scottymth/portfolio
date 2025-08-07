@@ -20,6 +20,6 @@ public class SolutionTest {
     
     @Test
     public void testSize() {
-        assertEquals(Collections.<String>emptyList(),new Solution().partitionString("aB"));
+        assertEquals(Collections.<String>emptyList(),new Solution().partitionString("a".repeat(10001)));
     }
 }
